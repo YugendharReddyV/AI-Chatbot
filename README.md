@@ -8,8 +8,6 @@ The smooth UI makes it effortless to create and train conversations to the bot. 
 
 You don’t need to be an expert at artificial intelligence to create an awesome chatbot that has AI capabilities. With this project you can create an AI powered chatbot in no time.  Read the [documentation](docs/README.md) to get started.
 
-![](docs/screenshots/admin_chat_screenshot.png)
-
 ## Features
 - Fully Self-Hosted
 - Low-Code, DIY Admin Dashboard for Bot Development
