@@ -39,8 +39,4 @@ Check out our [documentation](docs/README.md) to get started.
  - Spacy / python-crfsuite
  - Docker / docker-compose / Kubernetes / Helm
 
-### Contributing
-
-Want to contribute? Check out our [contribution guidelines](CONTRIBUTING.md).
-
 <hr></hr>
